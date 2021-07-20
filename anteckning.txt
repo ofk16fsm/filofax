@@ -1,0 +1,8 @@
+2010-05-04: Testing
+2012-02-14: Python
+2012-05-14: Testing
+2014-02-14: Test
+2014-12-21: Python är bra
+2015-05-14: Test
+2015-09-21: Testing
+2017-05-09: Testar GUI igen
